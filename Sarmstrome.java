@@ -59,6 +59,9 @@ public class Sarmstrome implements ActionListener
 		{
 			l2.setText("");
 			t1.setText("");
+			n1=0;
+			s=0;
+			r=0;
 		}
 	}
 		
